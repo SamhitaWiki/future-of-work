@@ -1,1 +1,2 @@
-
+* Essentials: Structured Thinking, Structured Communication, Problem Solving, ...
+* Ethics: What lines should you not cross?
